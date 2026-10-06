@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-10-06T07:28:43.767785118Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-06T07:34:38.459175771Z",
     "templateType": "trip_g",
     "propertyId": "c3377592-f24e-45aa-941a-6521e65aaab5",
     "homepageId": "01a10ff3-0693-7e90-a43c-680f5b4c8aae"
@@ -11,7 +11,7 @@
     "name": "영흥도 또바기 펜션",
     "nameEn": "Yeongheungdo Ttobagi Pension",
     "description": "십리포해수욕장 바로 앞 영흥도펜션, 전 객실 빔프로젝트 구비, 바베큐, 갯벌체험이 가능한 또바기 펜션입니다.",
-    "subtitle": "",
+    "subtitle": "https://www.bookingplay.co.kr/booking/1/2693",
     "address": "인천 옹진군 영흥면 영흥북로 420-4 영흥도 또바기 펜션",
     "latitude": 37.280502958797,
     "longitude": 126.482712391019,
@@ -73,40 +73,73 @@
     },
     "facilities": [
       {
-        "id": "01a10ff2-fd99-76ec-b562-e6e793aac5de",
-        "name": "바베큐파티",
-        "description": "여행의 꽃, 맛있는 바베큐파티를 즐겨보세요!\n\n※ 자세한 내용은 예약안내 페이지 참고 부탁드립니다.",
-        "usageGuide": "",
-        "displayOrder": 1,
+        "id": "fc88a623-006f-42bb-a61c-f004e588799b",
+        "name": "개별바베큐",
+        "description": "",
+        "usageGuide": "- 이용 객실: 1,3층 단체 객실 / 2층 믿음, 소망, 사랑 객실\n- 이용 장소: 개별 바베큐장\n- 바베큐 형태: 숯불 바베큐\n- 이용 요금: 20,000원 (1박기준/현장결제)\n- 이용 시간: 입실 후 ~ 00:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n※ 숯/그릴 개인 지참 불가\n※ 1,3층 단체 객실 : 개별 바베큐장\n※ 2층 믿음,소망,사랑 객실 : 바베큐장",
+        "displayOrder": 0,
         "images": [
           {
-            "id": "01a10ff3-0599-7b02-853b-f8eab7a065cd",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a10ff2-fd99-76ec-b562-e6e793aac5de/main/1791268946773-xzi6pzekb8.webp",
+            "id": "01a11022-8972-7341-bd1b-7e294d3d9b1c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fc88a623-006f-42bb-a61c-f004e588799b/main/1791272060677-5rox4tyfkd.webp",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a10ff3-0625-7077-8fea-a5fabce2613d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a10ff2-fd99-76ec-b562-e6e793aac5de/main/1791268946837-9hd03qqbf4.webp",
+            "id": "01a11022-8d70-73a5-a0de-8b5838743a83",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fc88a623-006f-42bb-a61c-f004e588799b/main/1791272060705-l69i904seg.webp",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a10ff3-0631-762e-973f-8caa31b83435",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a10ff2-fd99-76ec-b562-e6e793aac5de/main/1791268946870-yw4pr2mmp8.webp",
+            "id": "01a11022-894d-78eb-ad06-808ce956533c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fc88a623-006f-42bb-a61c-f004e588799b/main/1791272060703-wz5i55jskx.webp",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a10ff3-05cf-771e-85b2-5a8cdd00c56f",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a10ff2-fd99-76ec-b562-e6e793aac5de/main/1791268947049-jw7gt4lvzu.webp",
+            "id": "01a11022-89bd-7a98-abf2-a8f7256fec8f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fc88a623-006f-42bb-a61c-f004e588799b/main/1791272060705-huqtmbqh46.webp",
             "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "8db6935b-2f0d-4ea9-9d33-1e7aa0069c69",
+        "name": "부대시설",
+        "description": "",
+        "usageGuide": "[갯벌체험]\n- 도구 무료 대여: 장화, 호미",
+        "displayOrder": 1,
+        "images": [
+          {
+            "id": "01a11022-8eb3-7530-816f-be44979424d8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8db6935b-2f0d-4ea9-9d33-1e7aa0069c69/main/1791272062366-pbdd5o6j15.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a11022-8ead-7aad-9a2e-850f59671032",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8db6935b-2f0d-4ea9-9d33-1e7aa0069c69/main/1791272062367-qhjrd03o8z.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a11022-8e8e-7177-8641-b70eaa2a1689",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8db6935b-2f0d-4ea9-9d33-1e7aa0069c69/main/1791272062367-6d7rw1m4tj.jpg",
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -118,7 +151,7 @@
         "name": "편의 및 주변 시설",
         "description": "",
         "usageGuide": "- 와이파이 보유\n- 넷플릭스 이용 가능\n\n- 펜션 1층 매점(슈퍼)\n\n- 펜션 바로 앞 십리포 해수욕장\n- 세븐일레븐 도보 3분, 하나로마트 차량 5분",
-        "displayOrder": 3,
+        "displayOrder": 2,
         "images": [
           {
             "id": "01a10ff3-02ec-7c86-820d-f0c5e029506f",
@@ -131,23 +164,7 @@
           {
             "id": "01a10ff3-03f9-7a10-b405-285e3d30de01",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/06139618-a326-4085-ab12-c233a26ffc88/main/1791268946088-6uumffnu5s.webp",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "01a10ff3-04b2-7c92-9925-699b13dcf9ba",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/06139618-a326-4085-ab12-c233a26ffc88/main/1791268946084-nbzefxjaxx.webp",
             "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "01a10ff3-0234-7a9d-bb4e-7201aefc0e6b",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/06139618-a326-4085-ab12-c233a26ffc88/main/1791268945790-r16nw7o554.webp",
-            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -155,7 +172,7 @@
           {
             "id": "01a10ff3-0368-7755-9b7c-3ce30320b72a",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/06139618-a326-4085-ab12-c233a26ffc88/main/1791268946086-2o090qclsk.webp",
-            "sortOrder": 3,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -163,7 +180,7 @@
           {
             "id": "01a10ff3-032d-7b64-a2e9-67fee70491ee",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/06139618-a326-4085-ab12-c233a26ffc88/main/1791268946085-4au4a3jabg.webp",
-            "sortOrder": 4,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -171,7 +188,7 @@
           {
             "id": "01a10ff3-0383-71dd-9194-e8e1e9e9052e",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/06139618-a326-4085-ab12-c233a26ffc88/main/1791268946525-kk071rvsag.webp",
-            "sortOrder": 5,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -179,7 +196,7 @@
           {
             "id": "01a10ff3-0522-7db5-9c2f-6abe61106369",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/06139618-a326-4085-ab12-c233a26ffc88/main/1791268946703-ckzsfxnw0n.webp",
-            "sortOrder": 6,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
