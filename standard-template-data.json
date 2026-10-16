@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-10-16T01:09:17.210287626Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-16T01:10:16.346715359Z",
     "templateType": "trip_f",
     "propertyId": "82beabb2-ae99-4021-8f98-d7f79a234216",
     "homepageId": "01a13f52-44b5-78ec-ae54-757cfab57672"
@@ -127,7 +127,7 @@
       {
         "id": "01a13f52-3118-7609-a02c-fff3cbcfa488",
         "name": "반려견운동장",
-        "description": "넓은 잔디 운동장에서 반려견이 자유롭게 뛰어놀 수 있습니다.\n함께 산책하며 즐거운 시간을 보내보세요.",
+        "description": "",
         "usageGuide": "",
         "displayOrder": 1,
         "images": [
@@ -3579,7 +3579,28 @@
             ]
           }
         ],
-        "facility": [ ],
+        "facility": [
+          {
+            "id": "01a13f52-3118-7609-a02c-fff3cbcfa488",
+            "sections": [
+              {
+                "hero": {
+                  "title": "넓은 잔디 운동장에서 반려견이 자유롭게 뛰어놀 수 있습니다.\n함께 산책하며 즐거운 시간을 보내보세요.",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": "",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          }
+        ],
         "reservation": {
           "sections": [
             {
