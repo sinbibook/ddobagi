@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-10-16T01:10:16.346715359Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-16T01:55:40.649415444Z",
     "templateType": "trip_f",
     "propertyId": "82beabb2-ae99-4021-8f98-d7f79a234216",
     "homepageId": "01a13f52-44b5-78ec-ae54-757cfab57672"
@@ -3593,9 +3593,9 @@
                   "images": [ ]
                 },
                 "experience": {
+                  "benefits": [ ],
                   "features": [ ],
-                  "additionalInfos": [ ],
-                  "benefits": [ ]
+                  "additionalInfos": [ ]
                 }
               }
             ]
